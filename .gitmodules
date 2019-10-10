@@ -4,3 +4,9 @@
 [submodule "themes/themes/next"]
 	path = themes/themes/next
 	url = https://github.com/iissnan/hexo-theme-next
+[submodule "themes/next/themes/vno-jekyll"]
+	path = themes/next/themes/vno-jekyll
+	url = https://github.com/onevcat/vno-jekyll
+[submodule "themes/vno-jekyll"]
+	path = themes/vno-jekyll
+	url = https://github.com/onevcat/vno-jekyll
