@@ -5,3 +5,6 @@ tags:
 ---
 
 ## Try to write a new post
+
+try to add picture
+![](https://www.instagram.com/p/B3YEAOvoi-2/)
