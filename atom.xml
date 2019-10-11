@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-11T01:10:07.209Z</updated>
+  <updated>2019-10-11T01:43:43.237Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
+    <title>New Post</title>
     <link href="http://yoursite.com/2019/10/11/My-New-Post/"/>
     <id>http://yoursite.com/2019/10/11/My-New-Post/</id>
     <published>2019-10-10T23:14:29.000Z</published>
-    <updated>2019-10-11T01:10:07.209Z</updated>
+    <updated>2019-10-11T01:43:43.237Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Try-to-write-a-new-post"><a href="#Try-to-write-a-new-post" class="headerlink" title="Try to write a new post"></a>Try to write a new post</h2><p>try to add picture<br><img src="https://www.instagram.com/p/B3YEAOvoi-2/" alt></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Write-a-new-post"><a href="#Write-a-new-post" class="headerlink" title="Write a new post"></a>Write a new post</h2><p><a href="https://cloudinary.com/console/media_library/folders/all/" target="_blank" rel="noopener">Generate pictire url</a></p><p><img src="https://res.cloudinary.com/itsodessa/image/upload/v1570757627/71504384_415990742392605_1891245026042898339_n.jpg_zid7c4.jpg" alt></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Try-to-write-a-new-post&quot;&gt;&lt;a href=&quot;#Try-to-write-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Try to write a new post&quot;&gt;&lt;/a&gt;Try to write a ne
+        &lt;h2 id=&quot;Write-a-new-post&quot;&gt;&lt;a href=&quot;#Write-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Write a new post&quot;&gt;&lt;/a&gt;Write a new post&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https
       
     
     </summary>
     
     
+    
+      <category term="ins" scheme="http://yoursite.com/tags/ins/"/>
     
   </entry>
   
